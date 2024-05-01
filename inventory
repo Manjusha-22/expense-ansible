@@ -1,2 +1,8 @@
 [db]
 db.myworkhub.online
+
+[backend]
+backend.myworkhub.online
+
+[frontend]
+myworkhub.online
